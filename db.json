@@ -1,19 +1,94 @@
 {
-  accounts: [
-    { id: 1, name: 'Vlad', amount: 8, type: 'account' },
-    { id: 1, name: 'Vlad', amount: -8, type: 'transaction' },
-    { id: 1, name: 'Vlad', amount: 10, type: 'transaction' },
-    { id: 1, name: 'Vlad', amount: 8, type: 'transaction' },
-    { id: 2, name: 'Vesh', amount: 5, type: 'account' },
-    { id: 3, name: 'Kritch', amount: 22, type: 'transaction' },
-    { id: 3, name: 'Kritch', amount: -22, type: 'transaction' },
-    { id: 3, name: 'Kritch', amount: 22, type: 'account' },
-    { id: 4, name: 'Azreal', amount: 15, type: 'account' },
-    { id: 5, name: 'Tasselhoff', amount: 19, type: 'account' },
-    { id: 6, name: 'Fire', amount: 6, type: 'account' },
-    { id: 7, name: 'Frost', amount: 1, type: 'account' },
-    { id: 7, name: 'Frost', amount: -1, type: 'transaction' },
-    { id: 8, name: 'Storm', amount: 18, type: 'account' },
-    { id: 9, name: 'Cloud', amount: 13, type: 'account' },
-  ]
+   "accounts": [
+      {
+         "id": 1,
+         "name": "Vlad",
+         "amount": 8,
+         "type": "account"
+      },
+      {
+         "id": 1,
+         "name": "Vlad",
+         "amount": -8,
+         "type": "transaction"
+      },
+      {
+         "id": 1,
+         "name": "Vlad",
+         "amount": 10,
+         "type": "transaction"
+      },
+      {
+         "id": 1,
+         "name": "Vlad",
+         "amount": 8,
+         "type": "transaction"
+      },
+      {
+         "id": 2,
+         "name": "Vesh",
+         "amount": 5,
+         "type": "account"
+      },
+      {
+         "id": 3,
+         "name": "Kritch",
+         "amount": 22,
+         "type": "transaction"
+      },
+      {
+         "id": 3,
+         "name": "Kritch",
+         "amount": -22,
+         "type": "transaction"
+      },
+      {
+         "id": 3,
+         "name": "Kritch",
+         "amount": 22,
+         "type": "account"
+      },
+      {
+         "id": 4,
+         "name": "Azreal",
+         "amount": 15,
+         "type": "account"
+      },
+      {
+         "id": 5,
+         "name": "Tasselhoff",
+         "amount": 19,
+         "type": "account"
+      },
+      {
+         "id": 6,
+         "name": "Fire",
+         "amount": 6,
+         "type": "account"
+      },
+      {
+         "id": 7,
+         "name": "Frost",
+         "amount": 1,
+         "type": "account"
+      },
+      {
+         "id": 7,
+         "name": "Frost",
+         "amount": -1,
+         "type": "transaction"
+      },
+      {
+         "id": 8,
+         "name": "Storm",
+         "amount": 18,
+         "type": "account"
+      },
+      {
+         "id": 9,
+         "name": "Cloud",
+         "amount": 13,
+         "type": "account"
+      }
+   ]
 }
