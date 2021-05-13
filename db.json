@@ -1,4 +1,5 @@
 {
+   "accounts": [
       {
          "id": 1,
          "name": "Vlad",
@@ -89,4 +90,5 @@
          "amount": 13,
          "type": "account"
       }
+   ]
 }
